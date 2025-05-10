@@ -5,53 +5,100 @@ description: "VLSI | STA & PDN Expert | ML-driven Timing Optimization"
 
 # 👋 Hi, I'm Lalit Arora
 
-With over 7 years of experience in **VLSI design**, I specialize in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. I currently work at **Intel Corporation** as a Lead Digital Design Engineer, focusing on advanced **3DIC timing signoff** and **cross-die STA methodologies**.
+A passionate VLSI professional with 7+ years of experience in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. Currently working at **Intel**, I specialize in 3DIC methodologies, high-performance timing closure, and ML-powered design automation.
 
 ---
 
-## ⚙️ Areas of Expertise
+## 🛠️ Skills
 
-- **Static Timing Analysis (STA)** — High-frequency design, clocking, constraints, PVT modeling  
-- **PDN Design & Analysis** — IR drop, EM, inrush analysis, and power grid optimization  
-- **Machine Learning in VLSI** — Predictive modeling for synthesis and timing optimization  
-- **EDA Tools** — Primetime, Redhawk, Tempus, Fusion Compiler, Innovus  
-- **Scripting & Automation** — Python, TCL, Perl, Bash  
+<b>Static Timing Analysis (STA)</b>  
+<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
+  <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
+</div>
 
----
+<b>Power Delivery Network (PDN)</b>  
+<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
+  <div style="background:#28a745; width:90%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
+</div>
 
-## 🏢 Work Experience Highlights
+<b>Python / TCL Scripting</b>  
+<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
+  <div style="background:#28a745; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
+</div>
 
-### Intel Corporation (2022–Present)
-- Developed 3DIC timing signoff methodology using nested Hyperscale and VIB parasitics
-- Created ML-based tools for I/O constraints and Xtalk-aware ECO prediction
-- Delivered full-chip timing closure across >100M cell designs with 3GHz+ operation
-
-### Qualcomm (2018–2022)
-- Led PDN signoff for 5nm 5G SoC, coordinating across floorplanning, package, and STA teams
-- Developed robust utilities for ECO generation, IR analysis, and layout optimization
-
----
-
-## 🎓 Education
-
-- **M.Tech in Microelectronics & VLSI** — BITS Pilani, 2024 (10 CGPA)  
-- **B.E. in Electronics & Communication** — NSIT Delhi, 2018 (84.7%)
+<b>Machine Learning in VLSI</b>  
+<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
+  <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
+</div>
 
 ---
 
-## 🏆 Highlights & Recognition
+## 🎖️ Quick Highlights
 
-- 🎤 **Best Presentation** – SNUG 2024, DAC 2023  
-- 📃 **Paper Accepted** – VLSID 2025, Intel DTTC (x3)  
-- 🏅 **Hackathon Winner** – IGDTUW & IEEE Tech Week  
-- 🏓 **3rd Place** – Table Tennis Men’s Doubles at Qualcomm
+![VLSI](https://img.shields.io/badge/domain-VLSI-blue)
+![STA](https://img.shields.io/badge/skill-STA-green)
+![PDN](https://img.shields.io/badge/skill-PDN-green)
+![Python](https://img.shields.io/badge/code-python-blue)
+![TCL](https://img.shields.io/badge/code-TCL-orange)
+![EDA Tools](https://img.shields.io/badge/tools-Primetime%2FRedhawk-critical)
+
+---
+
+## 🧠 Expertise Snapshot
+
+![Skills Pie](https://quickchart.io/chart?c={type:'pie',data:{labels:['STA','PDN','ML','Scripting'],datasets:[{data:[40,30,15,15]}]}})
+
+---
+
+## 🕒 Career Timeline
+
+<div style="border-left: 3px solid #28a745; padding-left: 20px; margin-left: 10px;">
+
+  <h3 style="color:#28a745;">2022–Present: Lead Digital Design Engineer @ Intel</h3>
+  <ul>
+    <li>Led 3DIC timing signoff across multiple dies</li>
+    <li>Developed ML-based tools for I/O constraints and Xtalk ECOs</li>
+    <li>Delivered timing closure for 100M+ cell SoCs</li>
+  </ul>
+
+  <h3 style="color:#28a745;">2018–2022: Senior Engineer @ Qualcomm</h3>
+  <ul>
+    <li>Delivered PDN signoff for 5nm 5G SoCs</li>
+    <li>Built custom TCL/Python utilities for STA and IR-aware flows</li>
+    <li>Led ECO generation, IR simulations, and PG optimizations</li>
+  </ul>
+
+  <h3 style="color:#28a745;">2023–2024: M.Tech, BITS Pilani</h3>
+  <ul>
+    <li>CGPA: 10.0 — Microelectronics & VLSI</li>
+    <li>Focused on STA/PDN modeling and ML applications</li>
+  </ul>
+
+  <h3 style="color:#28a745;">2014–2018: B.E., NSIT Delhi</h3>
+  <ul>
+    <li>ECE major (84.7%) — Merit Scholar (twice)</li>
+    <li>Hackathon winner, IEEE Tech Fest finalist</li>
+  </ul>
+
+</div>
+
+---
+
+## 🏆 Awards & Recognition
+
+- 🥇 **Best Presentation** — SNUG 2024, DAC 2023  
+- 📃 **Research Papers** — VLSID 2025, Intel DTTC x3  
+- 🥈 **Hackathon Winner** — IGDTUW & IEEE Tech Week  
+- 🏓 **3rd Place** — Men’s Doubles Table Tennis at Qualcomm  
+- 🎓 **Merit Scholar** — NSIT (twice)
 
 ---
 
 ## 🔗 Connect with Me
 
+- [GitHub](https://github.com/Mcodez)  
 - [LinkedIn](https://www.linkedin.com/in/lalit-arora)  
-- [GitHub](https://github.com/Mcodez)
+- 📧 Email: xx@gmail.com
 
 ---
 
