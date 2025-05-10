@@ -6,7 +6,7 @@ description: "VLSI | STA & PDN Expert | ML-driven Timing Optimization"
   🔗 <a href="https://www.linkedin.com/in/lalit-arora">LinkedIn</a> &nbsp; | &nbsp;
   💻 <a href="https://github.com/thelalitarora">GitHub</a> &nbsp; | &nbsp;
   📞 +91-9910XXXXXX
-  📄 <a href="https://raw.githubusercontent.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf">Download Resume</a>
+  📄 <a href="https://github.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf">Download Resume</a>
 </div>
 ---
 
