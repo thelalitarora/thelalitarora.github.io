@@ -19,58 +19,58 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 
 ## 🛠️ Skills
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <b style="margin-right: 10px; flex-shrink: 0;">Static Timing Analysis</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
+  <b style="width: 200px; text-align: left;">Static Timing Analysis</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
     <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <b style="margin-right: 10px; flex-shrink: 0;">Clocking and Constraints</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
+  <b style="width: 200px; text-align: left;">Clocking and Constraints</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
     <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <b style="margin-right: 10px; flex-shrink: 0;">Power Delivery Network (PDN)</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
+  <b style="width: 200px; text-align: left;">Power Delivery Network (PDN)</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
     <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <b style="margin-right: 10px; flex-shrink: 0;">PVT & Margining</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
+  <b style="width: 200px; text-align: left;">PVT & Margining</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
     <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <b style="margin-right: 10px; flex-shrink: 0;">Methodology Development</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
+  <b style="width: 200px; text-align: left;">Methodology Development</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
     <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <b style="margin-right: 10px; flex-shrink: 0;">Scripting (Python, TCL, Perl)</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
+  <b style="width: 200px; text-align: left;">Scripting (Python, TCL, Perl)</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
     <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <b style="margin-right: 10px; flex-shrink: 0;">Physical Design</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
+  <b style="width: 200px; text-align: left;">Physical Design</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
     <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <b style="margin-right: 10px; flex-shrink: 0;">Machine Learning</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
+  <b style="width: 200px; text-align: left;">Machine Learning</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
     <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
   </div>
 </div>
