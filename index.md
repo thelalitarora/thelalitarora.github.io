@@ -1,6 +1,9 @@
+---
+title: "Lalit Arora"
+description: "VLSI | STA & PDN Expert | ML-driven Timing Optimization"
+---
 
 # 👋 Hi, I'm Lalit Arora
-## VLSI Engineer | STA & PDN Expert | ML in Physical Design
 
 With over 7 years of experience in **VLSI design**, I specialize in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. I currently work at **Intel Corporation** as a Lead Digital Design Engineer, focusing on advanced **3DIC timing signoff** and **cross-die STA methodologies**.
 
