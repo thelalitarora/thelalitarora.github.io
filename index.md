@@ -68,7 +68,6 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
   <li>
     <h3>Intel Corporation, Bangalore, India</h3>
     <h4>Lead Digital Design Engineer – June 2022 – Present</h4>
-
     <p><strong>Nested Hyperscale-based Multi-Tech 3DIC Timing Methodology & Signoff:</strong></p>
     <ul>
       <li>Managed SOC clocks: definition, grouping, uncertainties, and die-level modeling</li>
@@ -78,7 +77,6 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
       <li>Achieved closure using nested Hyperscale and VIB parasitics (STAR-RC)</li>
       <li>Performed SPICE simulations for cross-die paths and multi-driver timing validation</li>
     </ul>
-
     <p><strong>Full Chip Timing (FCT):</strong></p>
     <ul>
       <li>Completed timing signoff for 100M+ cell designs with MI and 3GHz+ clocks</li>
@@ -86,7 +84,6 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
       <li>Guided subsystem teams in CTS and floorplanning with optimized clocking</li>
       <li>Produced ECOs and accurate IO/context modeling for timing convergence</li>
     </ul>
-
     <p><strong>Methodology Development:</strong></p>
     <ul>
       <li>Built ML-based I/O constraint generation algorithm (90% quality boost)</li>
@@ -98,7 +95,6 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
   <li>
     <h3>Qualcomm, Noida, India</h3>
     <h4>Senior Engineer – July 2018 – June 2022</h4>
-
     <p><strong>Full Chip Timing (FCT):</strong></p>
     <ul>
       <li>Signed off STA for modem subsystem in 7nm SoC across functional/test modes</li>
@@ -106,7 +102,6 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
       <li>Enabled ECOs via Tweaker, VMIN eval, and leakage power reduction</li>
       <li>Delivered IR-aware STA and post-noise ECOs to meet specs</li>
     </ul>
-
     <p><strong>Power Delivery Network (PDN):</strong></p>
     <ul>
       <li>Performed IR/EM/ESD/inrush analysis across 11nm–5nm tech nodes</li>
@@ -114,7 +109,6 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
       <li>Contributed to floorplanning, pad/bump placement, die-side cap insertion</li>
       <li>Ran SCAN-mode dynamic IR and VCD/VLESS-based simulations</li>
     </ul>
-
     <p><strong>Methodology Development:</strong></p>
     <ul>
       <li>Built Python utility for bump-level IR/EM data extraction & analysis</li>
@@ -122,7 +116,6 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
       <li>Created design utilities for power routing, feedthroughs, and island placement</li>
     </ul>
   </li>
-
 </ul>
 </div>
 
