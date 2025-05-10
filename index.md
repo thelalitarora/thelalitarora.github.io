@@ -136,7 +136,7 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
     <h3>Netaji Subhas Institute of Technology (NSIT), University of Delhi</h3>
     <h4>BE in Electronics & Communication – Aug 2014 – May 2018</h4>
     <p><strong>Score:</strong> 84.7%<br>
-    *Awarded Merit Scholarship twice for being in the top 10 students of the batch*</p>
+    <em>Awarded Merit Scholarship twice for being in the top 10 students of the batch</em></p>
   </li>
 
   <li>
