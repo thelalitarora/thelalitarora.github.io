@@ -123,79 +123,35 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 
 ## 🎓 Education Timeline
 
-<style>
-.edu-timeline {
-  position: relative;
-  margin: 40px 0;
-  padding: 0;
-  list-style: none;
-  max-width: 900px;
-}
-.edu-timeline::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 20px;
-  width: 2px;
-  background: #007bff;
-}
-.edu-item {
-  position: relative;
-  margin-bottom: 50px;
-  padding-left: 50px;
-}
-.edu-item::before {
-  content: '';
-  position: absolute;
-  top: 5px;
-  left: 13px;
-  width: 14px;
-  height: 14px;
-  border-radius: 50%;
-  background: #007bff;
-  border: 2px solid white;
-}
-.edu-item h3 {
-  margin: 0 0 6px;
-}
-.edu-item span {
-  font-size: 0.9em;
-  color: #666;
-}
-.edu-item p {
-  margin: 8px 0 0;
-}
-</style>
+<div style="border-left: 3px solid #28a745; padding-left: 20px; margin-left: 10px;">
 
-<ul class="edu-timeline">
-
-  <li class="edu-item">
+<ul>
+  <li>
     <h3>Birla Institute of Technology and Sciences (BITS), Pilani</h3>
-    <span>M.Tech in Microelectronics & VLSI – Jan 2023 – Dec 2024</span>
+    <h4>M.Tech in Microelectronics & VLSI – Jan 2023 – Dec 2024</h4>
     <p><strong>Score:</strong> 10 CGPA</p>
   </li>
 
-  <li class="edu-item">
+  <li>
     <h3>Netaji Subhas Institute of Technology (NSIT), University of Delhi</h3>
-    <span>BE in Electronics & Communication – Aug 2014 – May 2018</span>
+    <h4>BE in Electronics & Communication – Aug 2014 – May 2018</h4>
     <p><strong>Score:</strong> 84.7%<br>
-    <em>Awarded Merit Scholarship twice for being in the top 10 students of the batch</em></p>
+    *Awarded Merit Scholarship twice for being in the top 10 students of the batch*</p>
   </li>
 
-  <li class="edu-item">
+  <li>
     <h3>Bal Mandir Sr. Sec School, Delhi (CBSE)</h3>
-    <span>Class XII – Apr 2013 – Mar 2014</span>
+    <h4>Class XII – Apr 2013 – Mar 2014</h4>
     <p><strong>Score:</strong> 93.7%</p>
   </li>
 
-  <li class="edu-item">
+  <li>
     <h3>Bal Mandir Sr. Sec School, Delhi (CBSE)</h3>
-    <span>Class X – Apr 2011 – Mar 2012</span>
+    <h4>Class X – Apr 2011 – Mar 2012</h4>
     <p><strong>Score:</strong> 9.8 CGPA</p>
   </li>
-
 </ul>
+</div>
 
 ---
 
