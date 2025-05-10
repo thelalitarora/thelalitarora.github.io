@@ -67,7 +67,7 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 <ul>
   <li>
     <h3>Intel Corporation, Bangalore, India</h3>
-    <span>Lead Digital Design Engineer – June 2022 – Present</span>
+    <h4>Lead Digital Design Engineer – June 2022 – Present</h4>
 
     <p><strong>Nested Hyperscale-based Multi-Tech 3DIC Timing Methodology & Signoff:</strong></p>
     <ul>
@@ -97,7 +97,7 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 
   <li>
     <h3>Qualcomm, Noida, India</h3>
-    <span>Senior Engineer – July 2018 – June 2022</span>
+    <h4>Senior Engineer – July 2018 – June 2022</h4>
 
     <p><strong>Full Chip Timing (FCT):</strong></p>
     <ul>
