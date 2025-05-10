@@ -12,11 +12,11 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 # 📬 Connect with me
 
 <div style="margin-top:20px; font-size:16px;">
-  📧 <a href="mailto:vlalitarora@gmail.com">your.email@example.com</a> &nbsp; | &nbsp;
+  📧 <a href="mailto:vlalitarora@gmail.com">Email</a> &nbsp; | &nbsp;
   🔗 <a href="https://www.linkedin.com/in/lalit-arora">LinkedIn</a> &nbsp; | &nbsp;
   💻 <a href="https://github.com/thelalitarora">GitHub</a> &nbsp; | &nbsp;
   📞 +91-9910XXXXXX
-  📄 <a href="https://github.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf">Download Resume</a>
+  📄 <a href="https://github.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf">Resume</a>
 </div>
 
 ---
@@ -90,6 +90,7 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
       <li>Developed RNN model for synthesis optimization feedback at RTL stage</li>
       <li>Designed ML tool to predict crosstalk and drive targeted ECOs</li>
     </ul>
+    <p></p>
   </li>
 
   <li>
