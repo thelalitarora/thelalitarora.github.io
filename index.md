@@ -1,11 +1,11 @@
 ---
 title: "Lalit Arora"
-description: "VLSI | STA & PDN Expert | ML-driven Timing Optimization"
+description: "VLSI | STA & PDN Expert | Methodology | ML-driven Timing Optimization"
 ---
 
 # 👋 Hi, I'm Lalit Arora
 
-A passionate VLSI professional with 7+ years of experience in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. Currently working at **Intel**, I specialize in 3DIC methodologies, high-performance timing closure including clocking and handling timing constraints, and ML-powered design automation. 
+A passionate VLSI professional with 7+ years of experience in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. Currently working at **Intel**, I specialize in 3DIC methodologies, high-performance SOC timing closure including clocking and handling timing constraints, SOC PDN activities, and ML-powered design automation. 
 
 ---
 
@@ -69,25 +69,25 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
     <h4>Lead Digital Design Engineer – June 2022 – Present</h4>
     <p><strong>Nested Hyperscale-based Multi-Tech 3DIC Timing Methodology & Signoff:</strong></p>
     <ul>
-      <li>Managed SOC clocks: definition, grouping, uncertainties, and die-level modeling</li>
+      <li>Managed SOC clocks: definition, grouping, uncertainties, and die-level clock modeling</li>
       <li>Defined and applied CT guardbands, derates, margins, and PVT corners for 3DIC signoff</li>
-      <li>Handled TAP/SSN/MBIST/BISR timing exceptions and 3GHz+ async interfaces</li>
+      <li>Handled TAP/SSN/MBIST/BISR timing exceptions and D2D test architecture constraints</li>
       <li>Delivered high-quality IO constraints and promoted exceptions using Fishtail</li>
       <li>Achieved closure using nested Hyperscale and VIB parasitics (STAR-RC)</li>
-      <li>Performed SPICE simulations for cross-die paths and multi-driver timing validation</li>
+      <li>Performed SPICE simulations for cross-die timing paths and multi-driver net architectures</li>
     </ul>
     <p><strong>Full Chip Timing (FCT):</strong></p>
     <ul>
       <li>Completed timing signoff for 100M+ cell designs with MI and 3GHz+ clocks</li>
       <li>Integrated SSN, MBIST, and BISR back-end protocols, ensuring robust constraints</li>
-      <li>Guided subsystem teams in CTS and floorplanning with optimized clocking</li>
+      <li>Guided subsystem teams in CTS and floorplanning to build optimized clock tree</li>
       <li>Produced ECOs and accurate IO/context modeling for timing convergence</li>
     </ul>
     <p><strong>Methodology Development:</strong></p>
     <ul>
       <li>Built ML-based I/O constraint generation algorithm (90% quality boost)</li>
       <li>Developed RNN model for synthesis optimization feedback at RTL stage</li>
-      <li>Designed ML tool to predict crosstalk and drive targeted ECOs</li>
+      <li>Designed ML tool to predict crosstalk and generate targeted ECOs</li>
     </ul>
     <p></p>
   </li>
@@ -98,22 +98,22 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
     <p><strong>Full Chip Timing (FCT):</strong></p>
     <ul>
       <li>Signed off STA for modem subsystem in 7nm SoC across functional/test modes</li>
-      <li>Closed async skew checks; delivered optimized test clock latency</li>
+      <li>Closed async skew checks; delivered optimized test clock latency for smooth test timing closure</li>
       <li>Enabled ECOs via Tweaker, VMIN eval, and leakage power reduction</li>
-      <li>Delivered IR-aware STA and post-noise ECOs to meet specs</li>
+      <li>Delivered IR-aware STA and IR-aware ECOs to meet performance specs</li>
     </ul>
     <p><strong>Power Delivery Network (PDN):</strong></p>
     <ul>
       <li>Performed IR/EM/ESD/inrush analysis across 11nm–5nm tech nodes</li>
       <li>Led 5nm 5G SoC PDN signoff with cross-functional collaboration</li>
-      <li>Contributed to floorplanning, pad/bump placement, die-side cap insertion</li>
+      <li>Contributed to Floorplanning and System PDN team for efficient pad/bump placement & die-side cap insertion</li>
       <li>Ran SCAN-mode dynamic IR and VCD/VLESS-based simulations</li>
     </ul>
     <p><strong>Methodology Development:</strong></p>
     <ul>
-      <li>Built Python utility for bump-level IR/EM data extraction & analysis</li>
-      <li>Wrote TCL tool to auto-locate hold fix points with slack buffer</li>
-      <li>Created design utilities for power routing, feedthroughs, and island placement</li>
+      <li>Built Python utility for bump-level Voltage droop and parasitic data extraction & analysis</li>
+      <li>Wrote TCL tool to auto-locate hold fix points having enough setup slack for buffering</li>
+      <li>Coded various utilities for power routing (RDL), Feedthroughs, and island placement</li>
     </ul>
   </li>
 </ul>
@@ -160,12 +160,13 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 - 📝 [**IEEE** – ML-Based Synthesis Optimization (STML), VLSID 2025](https://ieeexplore.ieee.org/document/10900719)  
 - 🏆 **SNUG 2024** – Best Presentation for 3DIC Timing Methodology  
 - 🏆 **DAC 2023** – Best Presentation for ML-based Crosstalk Fixing  
-- 📚 **Intel DTTC (x3)** – Internal papers on 3DIC, ML Synthesis, Auto PyRoute
+- 📚 **Intel DTTC** – Internal papers on 3DIC, ML Synthesis, Auto PyRoute
 
 ---
 
 ## 🏅 Awards & Achievements
 
+- 🥇 **DRA Award** at Intel for quality signoff  
 - 🥇 Multiple **Qualstar Awards** at Qualcomm for outstanding performance  
 - 🥈 **Merit Scholarship** at NSIT – Awarded twice  
 - 🏆 1st Place – Tech Fest Hackathon @ IGDTUW  
@@ -176,7 +177,7 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 
 ## 💻 Self Projects
 
-Explore my public VLSI & ML projects, timing tools, and algorithm implementations here:
+Explore my public VLSI algorithms & creative endeavors here:
 👉 [github.com/thelalitarora](https://github.com/thelalitarora)
 
 ---
