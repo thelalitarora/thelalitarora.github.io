@@ -1,11 +1,18 @@
 ---
 title: "Lalit Arora"
 description: "VLSI | STA & PDN Expert | ML-driven Timing Optimization"
+<div style="margin-top:20px; font-size:16px;">
+  📧 <a href="mailto:vlalitarora@gmail.com">your.email@example.com</a> &nbsp; | &nbsp;
+  🔗 <a href="https://www.linkedin.com/in/lalit-arora">LinkedIn</a> &nbsp; | &nbsp;
+  💻 <a href="https://github.com/thelalitarora">GitHub</a> &nbsp; | &nbsp;
+  📞 +91-9910XXXXXX
+  📄 <a href="https://raw.githubusercontent.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf">Download Resume</a>
+</div>
 ---
 
 # 👋 Hi, I'm Lalit Arora
 
-A passionate VLSI professional with 7+ years of experience in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. Currently working at **Intel**, I specialize in 3DIC methodologies, high-performance timing closure, and ML-powered design automation. I also develop and publish **complex VLSI algorithms** on my [GitHub](https://github.com/thelalitarora).
+A passionate VLSI professional with 7+ years of experience in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. Currently working at **Intel**, I specialize in 3DIC methodologies, high-performance timing closure including clocking and handling timing constraints, and ML-powered design automation. 
 
 <div style="margin-top:20px;">
   <a href="https://raw.githubusercontent.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf" target="_blank" style="text-decoration:none;">
@@ -17,110 +24,236 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 
 ---
 
-## 🛠️ Skills
-
-<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
-  <b style="width: 200px; text-align: left;">Static Timing Analysis</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
-    <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
-  <b style="width: 200px; text-align: left;">Clocking and Constraints</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
-    <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
-  <b style="width: 200px; text-align: left;">Power Delivery Network (PDN)</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
-    <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
-  <b style="width: 200px; text-align: left;">PVT & Margining</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
-    <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
-  <b style="width: 200px; text-align: left;">Methodology Development</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
-    <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
-  <b style="width: 200px; text-align: left;">Scripting (Python, TCL, Perl)</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
-    <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
-  <b style="width: 200px; text-align: left;">Physical Design</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
-    <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px; width: 100%; justify-content: space-between;">
-  <b style="width: 200px; text-align: left;">Machine Learning</b>  
-  <div style="background:#eee; border-radius:6px; padding:2px; width:70%;">
-    <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
-  </div>
-</div>
-
----
-
-## 🎖️ Quick Highlights
+## 🎖️ Skills
 
 ![STA](https://img.shields.io/badge/STA-Expert-brightgreen)
 ![PDN](https://img.shields.io/badge/PDN-Expert-brightgreen)
 ![Clocking](https://img.shields.io/badge/Clocking-Expert-brightgreen)
+![Timing_Constraints](https://img.shields.io/badge/Timing_Constraints-Expert-brightgreen)
 ![PVT](https://img.shields.io/badge/PVT-Advanced-blue)
 ![Methodology](https://img.shields.io/badge/Methodology-Advanced-blue)
 ![Scripting](https://img.shields.io/badge/Scripting-Advanced-blue)
 ![Physical_Design](https://img.shields.io/badge/Physical_Design-Intermediate-yellow)
-![ML](https://img.shields.io/badge/ML_in_VLSI-Intermediate-yellow)
+![Machine_Learning](https://img.shields.io/badge/ML_in_VLSI-Intermediate-yellow)
+![SPICE](https://img.shields.io/badge/SPICE-Intermediate-yellow)
+
+---
+
+## 🛠️ Tools
+
+![Primetime](https://img.shields.io/badge/Primetime-Expert-brightgreen)
+![Tweaker](https://img.shields.io/badge/Tweaker-Expert-brightgreen)
+![Tempus](https://img.shields.io/badge/Tempus-Advanced-brightgreen)
+![Fishtail](https://img.shields.io/badge/Fishtail-Advanced-blue)
+![Redhawk](https://img.shields.io/badge/Redhawk-Advanced-blue)
+![Redhawk_SC](https://img.shields.io/badge/Redhawk_SC-Advanced-blue)
+![Fusion_Compiler](https://img.shields.io/badge/Fusion_Compiler-Intermediate-yellow)
+![Innovus](https://img.shields.io/badge/Innovus-Intermediate-yellow)
+![HSPICE](https://img.shields.io/badge/HSPICE-Intermediate-yellow)
+
+---
+
+## 💻 Programming Languages
+
+![TCL](https://img.shields.io/badge/TCL-Expert-brightgreen)
+![Python](https://img.shields.io/badge/Python-Expert-brightgreen)
+![Shell](https://img.shields.io/badge/Shell-Advanced-blue)
+![Verilog](https://img.shields.io/badge/Verilog-Intermediate-yellow)
+![Perl](https://img.shields.io/badge/Perl-Intermediate-yellow)
+![Embedded_C](https://img.shields.io/badge/Embedded_C-Intermediate-yellow)
 
 ---
 
 ## 🕒 Career Timeline
 
-<div style="border-left: 3px solid #28a745; padding-left: 20px; margin-left: 10px;">
+<style>
+.timeline {
+  position: relative;
+  margin: 40px 0;
+  padding: 0;
+  list-style: none;
+  max-width: 900px;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  width: 2px;
+  background: #28a745;
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 60px;
+  padding-left: 50px;
+}
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  top: 5px;
+  left: 13px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #28a745;
+  border: 2px solid white;
+}
+.timeline-item h3 {
+  margin: 0 0 6px;
+}
+.timeline-item span {
+  font-size: 0.9em;
+  color: #666;
+}
+.timeline-item ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+.timeline-item li {
+  margin-bottom: 6px;
+}
+</style>
 
-  <h3 style="color:#28a745;">2022–Present: Lead Digital Design Engineer @ Intel</h3>
-  <ul>
-    <li>Led 3DIC timing signoff using nested Hyperscale parasitics</li>
-    <li>Developed ML-based tools for I/O constraints and Xtalk ECOs</li>
-    <li>Delivered timing closure for 100M+ cell SoCs</li>
-  </ul>
+<ul class="timeline">
 
-  <h3 style="color:#28a745;">2018–2022: Senior Engineer @ Qualcomm</h3>
-  <ul>
-    <li>Full-chip STA and PDN signoff for 7nm/5nm 5G SoCs</li>
-    <li>Developed Python & TCL automation for IR-aware STA and ECO flows</li>
-    <li>Led shift-mode IR analysis and PG grid debugging</li>
-  </ul>
+  <li class="timeline-item">
+    <h3>Intel Corporation, Bangalore, India</h3>
+    <span>Lead Digital Design Engineer – June 2022 – Present</span>
 
-  <h3 style="color:#28a745;">2023–2024: M.Tech, BITS Pilani</h3>
-  <ul>
-    <li>Microelectronics & VLSI — CGPA: 10.0</li>
-    <li>Research focus: ML in VLSI signoff and physical design automation</li>
-  </ul>
+    <p><strong>Nested Hyperscale-based Multi-Tech 3DIC Timing Methodology & Signoff:</strong></p>
+    <ul>
+      <li>Managed SOC clocks: definition, grouping, uncertainties, and die-level modeling</li>
+      <li>Defined and applied CT guardbands, derates, margins, and PVT corners for 3DIC signoff</li>
+      <li>Handled TAP/SSN/MBIST/BISR timing exceptions and 3GHz+ async interfaces</li>
+      <li>Delivered high-quality IO constraints and promoted exceptions using Fishtail</li>
+      <li>Achieved closure using nested Hyperscale and VIB parasitics (STAR-RC)</li>
+      <li>Performed SPICE simulations for cross-die paths and multi-driver timing validation</li>
+    </ul>
 
-  <h3 style="color:#28a745;">2014–2018: B.E., NSIT Delhi</h3>
-  <ul>
-    <li>ECE major — 84.7%, Merit Scholar (twice)</li>
-    <li>Won IEEE & IGDTUW Hackathons</li>
-  </ul>
+    <p><strong>Full Chip Timing (FCT):</strong></p>
+    <ul>
+      <li>Completed timing signoff for 100M+ cell designs with MI and 3GHz+ clocks</li>
+      <li>Integrated SSN, MBIST, and BISR back-end protocols, ensuring robust constraints</li>
+      <li>Guided subsystem teams in CTS and floorplanning with optimized clocking</li>
+      <li>Produced ECOs and accurate IO/context modeling for timing convergence</li>
+    </ul>
 
-</div>
+    <p><strong>Methodology Development:</strong></p>
+    <ul>
+      <li>Built ML-based I/O constraint generation algorithm (90% quality boost)</li>
+      <li>Developed RNN model for synthesis optimization feedback at RTL stage</li>
+      <li>Designed ML tool to predict crosstalk and drive targeted ECOs</li>
+    </ul>
+  </li>
+
+  <li class="timeline-item">
+    <h3>Qualcomm, Noida, India</h3>
+    <span>Senior Engineer – July 2018 – June 2022</span>
+
+    <p><strong>Full Chip Timing (FCT):</strong></p>
+    <ul>
+      <li>Signed off STA for modem subsystem in 7nm SoC across functional/test modes</li>
+      <li>Closed async skew checks; delivered optimized test clock latency</li>
+      <li>Enabled ECOs via Tweaker, VMIN eval, and leakage power reduction</li>
+      <li>Delivered IR-aware STA and post-noise ECOs to meet specs</li>
+    </ul>
+
+    <p><strong>Power Delivery Network (PDN):</strong></p>
+    <ul>
+      <li>Performed IR/EM/ESD/inrush analysis across 11nm–5nm tech nodes</li>
+      <li>Led 5nm 5G SoC PDN signoff with cross-functional collaboration</li>
+      <li>Contributed to floorplanning, pad/bump placement, die-side cap insertion</li>
+      <li>Ran SCAN-mode dynamic IR and VCD/VLESS-based simulations</li>
+    </ul>
+
+    <p><strong>Methodology Development:</strong></p>
+    <ul>
+      <li>Built Python utility for bump-level IR/EM data extraction & analysis</li>
+      <li>Wrote TCL tool to auto-locate hold fix points with slack buffer</li>
+      <li>Created design utilities for power routing, feedthroughs, and island placement</li>
+    </ul>
+  </li>
+
+</ul>
+
+---
+
+## 🎓 Education Timeline
+
+<style>
+.edu-timeline {
+  position: relative;
+  margin: 40px 0;
+  padding: 0;
+  list-style: none;
+  max-width: 900px;
+}
+.edu-timeline::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  width: 2px;
+  background: #007bff;
+}
+.edu-item {
+  position: relative;
+  margin-bottom: 50px;
+  padding-left: 50px;
+}
+.edu-item::before {
+  content: '';
+  position: absolute;
+  top: 5px;
+  left: 13px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #007bff;
+  border: 2px solid white;
+}
+.edu-item h3 {
+  margin: 0 0 6px;
+}
+.edu-item span {
+  font-size: 0.9em;
+  color: #666;
+}
+.edu-item p {
+  margin: 8px 0 0;
+}
+</style>
+
+<ul class="edu-timeline">
+
+  <li class="edu-item">
+    <h3>Birla Institute of Technology and Sciences (BITS), Pilani</h3>
+    <span>M.Tech in Microelectronics & VLSI – Jan 2023 – Dec 2024</span>
+    <p><strong>Score:</strong> 10 CGPA</p>
+  </li>
+
+  <li class="edu-item">
+    <h3>Netaji Subhas Institute of Technology (NSIT), University of Delhi</h3>
+    <span>BE in Electronics & Communication – Aug 2014 – May 2018</span>
+    <p><strong>Score:</strong> 84.7%<br>
+    <em>Awarded Merit Scholarship twice for being in the top 10 students of the batch</em></p>
+  </li>
+
+  <li class="edu-item">
+    <h3>Bal Mandir Sr. Sec School, Delhi (CBSE)</h3>
+    <span>Class XII – Apr 2013 – Mar 2014</span>
+    <p><strong>Score:</strong> 93.7%</p>
+  </li>
+
+  <li class="edu-item">
+    <h3>Bal Mandir Sr. Sec School, Delhi (CBSE)</h3>
+    <span>Class X – Apr 2011 – Mar 2012</span>
+    <p><strong>Score:</strong> 9.8 CGPA</p>
+  </li>
+
+</ul>
 
 ---
 
@@ -143,18 +276,13 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 
 ---
 
-## 💻 Projects
+## 💻 Self Projects
 
-Explore my public VLSI & ML projects, timing tools, and algorithm implementations here:  
+Explore my public VLSI & ML projects, timing tools, and algorithm implementations here:
 👉 [github.com/thelalitarora](https://github.com/thelalitarora)
 
 ---
 
-## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/lalit-arora)  
-- 📧 Email: xx@gmail.com
-
----
 
 _“Driven by precision, powered by innovation.”_
