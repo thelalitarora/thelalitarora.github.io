@@ -1,13 +1,6 @@
 ---
 title: "Lalit Arora"
 description: "VLSI | STA & PDN Expert | ML-driven Timing Optimization"
-<div style="margin-top:20px; font-size:16px;">
-  📧 <a href="mailto:vlalitarora@gmail.com">your.email@example.com</a> &nbsp; | &nbsp;
-  🔗 <a href="https://www.linkedin.com/in/lalit-arora">LinkedIn</a> &nbsp; | &nbsp;
-  💻 <a href="https://github.com/thelalitarora">GitHub</a> &nbsp; | &nbsp;
-  📞 +91-9910XXXXXX
-  📄 <a href="https://github.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf">Download Resume</a>
-</div>
 ---
 
 # 👋 Hi, I'm Lalit Arora
@@ -20,6 +13,18 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
       📄 Download My Resume
     </button>
   </a>
+</div>
+
+---
+
+# 📬 Connect with me
+
+<div style="margin-top:20px; font-size:16px;">
+  📧 <a href="mailto:vlalitarora@gmail.com">your.email@example.com</a> &nbsp; | &nbsp;
+  🔗 <a href="https://www.linkedin.com/in/lalit-arora">LinkedIn</a> &nbsp; | &nbsp;
+  💻 <a href="https://github.com/thelalitarora">GitHub</a> &nbsp; | &nbsp;
+  📞 +91-9910XXXXXX
+  📄 <a href="https://github.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf">Download Resume</a>
 </div>
 
 ---
