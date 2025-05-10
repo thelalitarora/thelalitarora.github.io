@@ -8,7 +8,7 @@ description: "VLSI | STA & PDN Expert | ML-driven Timing Optimization"
 A passionate VLSI professional with 7+ years of experience in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. Currently working at **Intel**, I specialize in 3DIC methodologies, high-performance timing closure, and ML-powered design automation. I also develop and publish **complex VLSI algorithms** on my [GitHub](https://github.com/thelalitarora).
 
 <div style="margin-top:20px;">
-  <a href="https://github.com/thelalitarora/thelalitarora.github.io/blob/main/RESUME.pdf" target="_blank" style="text-decoration:none;">
+  <a href="https://raw.githubusercontent.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf" target="_blank" style="text-decoration:none;">
     <button style="padding: 10px 20px; background-color:#28a745; color:white; border:none; border-radius:6px; font-size:16px;">
       📄 Download My Resume
     </button>
@@ -19,44 +19,60 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 
 ## 🛠️ Skills
 
-<b>Static Timing Analysis</b>  
-<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
-  <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <b style="margin-right: 10px; flex-shrink: 0;">Static Timing Analysis</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+    <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
+  </div>
 </div>
 
-<b>Clocking and Constraints</b>  
-<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
-  <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <b style="margin-right: 10px; flex-shrink: 0;">Clocking and Constraints</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+    <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
+  </div>
 </div>
 
-<b>Power Delivery Network (PDN)</b>  
-<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
-  <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <b style="margin-right: 10px; flex-shrink: 0;">Power Delivery Network (PDN)</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+    <div style="background:#28a745; width:95%; padding:4px; border-radius:6px; color:white; text-align:center;">Expert</div>
+  </div>
 </div>
 
-<b>PVT & Margining</b>  
-<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
-  <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <b style="margin-right: 10px; flex-shrink: 0;">PVT & Margining</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+    <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
+  </div>
 </div>
 
-<b>Methodology Development</b>  
-<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
-  <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <b style="margin-right: 10px; flex-shrink: 0;">Methodology Development</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+    <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
+  </div>
 </div>
 
-<b>Scripting (Python, TCL, Perl)</b>  
-<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
-  <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <b style="margin-right: 10px; flex-shrink: 0;">Scripting (Python, TCL, Perl)</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+    <div style="background:#17a2b8; width:85%; padding:4px; border-radius:6px; color:white; text-align:center;">Advanced</div>
+  </div>
 </div>
 
-<b>Physical Design</b>  
-<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
-  <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <b style="margin-right: 10px; flex-shrink: 0;">Physical Design</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+    <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
+  </div>
 </div>
 
-<b>Machine Learning</b>  
-<div style="background:#eee; border-radius:6px; padding:2px; width:80%">
-  <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <b style="margin-right: 10px; flex-shrink: 0;">Machine Learning</b>  
+  <div style="background:#eee; border-radius:6px; padding:2px; width:80%; flex-grow: 1;">
+    <div style="background:#ffc107; width:75%; padding:4px; border-radius:6px; color:black; text-align:center;">Intermediate</div>
+  </div>
 </div>
 
 ---
