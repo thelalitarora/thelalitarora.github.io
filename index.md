@@ -15,7 +15,7 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
   📧 <a href="mailto:vlalitarora@gmail.com">Email</a> &nbsp; | &nbsp;
   🔗 <a href="https://www.linkedin.com/in/lalit-arora">LinkedIn</a> &nbsp; | &nbsp;
   💻 <a href="https://github.com/thelalitarora">GitHub</a> &nbsp; | &nbsp;
-  📄 <a href="https://github.com/thelalitarora/thelalitarora.github.io/main/RESUME.pdf">Resume</a>
+  📄 <a href="https://github.com/thelalitarora/thelalitarora.github.io/blob/main/RESUME.pdf" download>Resume</a>
 </div>
 
 ---
