@@ -8,7 +8,7 @@ description: "VLSI | STA & PDN Expert | ML-driven Timing Optimization"
 A passionate VLSI professional with 7+ years of experience in **Static Timing Analysis (STA)** and **Power Delivery Network (PDN)**. Currently working at **Intel**, I specialize in 3DIC methodologies, high-performance timing closure, and ML-powered design automation. I also develop and publish **complex VLSI algorithms** on my [GitHub](https://github.com/thelalitarora).
 
 <div style="margin-top:20px;">
-  <a href="https://yourdomain.com/resume.pdf" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/thelalitarora/thelalitarora.github.io/blob/main/RESUME.pdf" target="_blank" style="text-decoration:none;">
     <button style="padding: 10px 20px; background-color:#28a745; color:white; border:none; border-radius:6px; font-size:16px;">
       📄 Download My Resume
     </button>
