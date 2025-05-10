@@ -63,58 +63,9 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
 
 ## 🕒 Career Timeline
 
-<style>
-.timeline {
-  position: relative;
-  margin: 40px 0;
-  padding: 0;
-  list-style: none;
-  max-width: 900px;
-}
-.timeline::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 20px;
-  width: 2px;
-  background: #28a745;
-}
-.timeline-item {
-  position: relative;
-  margin-bottom: 60px;
-  padding-left: 50px;
-}
-.timeline-item::before {
-  content: '';
-  position: absolute;
-  top: 5px;
-  left: 13px;
-  width: 14px;
-  height: 14px;
-  border-radius: 50%;
-  background: #28a745;
-  border: 2px solid white;
-}
-.timeline-item h3 {
-  margin: 0 0 6px;
-}
-.timeline-item span {
-  font-size: 0.9em;
-  color: #666;
-}
-.timeline-item ul {
-  margin-top: 10px;
-  padding-left: 20px;
-}
-.timeline-item li {
-  margin-bottom: 6px;
-}
-</style>
-
-<ul class="timeline">
-
-  <li class="timeline-item">
+<div style="border-left: 3px solid #28a745; padding-left: 20px; margin-left: 10px;">
+<ul>
+  <li>
     <h3>Intel Corporation, Bangalore, India</h3>
     <span>Lead Digital Design Engineer – June 2022 – Present</span>
 
@@ -144,7 +95,7 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
     </ul>
   </li>
 
-  <li class="timeline-item">
+  <li>
     <h3>Qualcomm, Noida, India</h3>
     <span>Senior Engineer – July 2018 – June 2022</span>
 
@@ -173,6 +124,9 @@ A passionate VLSI professional with 7+ years of experience in **Static Timing An
   </li>
 
 </ul>
+</div>
+
+---
 
 ## 🎓 Education Timeline
 
