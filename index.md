@@ -1,6 +1,6 @@
 ---
 title: "Lalit Arora"
-description: "VLSI | STA & PDN Expert | Methodology | ML-driven Timing Optimization | <a href='https://topmate.io/arora_lalit/' style='color: white;'>Book 1:1</a>"
+description: "VLSI | STA & PDN Expert | Methodology | ML-driven Timing Optimization | <a href=https://topmate.io/arora_lalit/>📅</a>"
 ---
 
 # 👋 Hi, I'm Lalit Arora
